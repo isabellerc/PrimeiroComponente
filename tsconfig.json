@@ -1,0 +1,17 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+  "strict": true,
+  "jsx": "react", // ou "preserve" se você estiver usando JSX sem React
+  "esModuleInterop": true,
+  }
+}
+
+// {
+//   "compilerOptions": {
+//     "jsx": "react", // ou "preserve" se você estiver usando JSX sem React
+//     "esModuleInterop": true,
+//     "strict": true
+//   }
+// }
+
